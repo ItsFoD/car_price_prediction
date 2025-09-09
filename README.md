@@ -1,9 +1,9 @@
 # Car Price Prediction
 
-*This project aims to predict car prices based on various features such as car make, model, fuel type, engine specifications, and more.
+* This project aims to predict car prices based on various features such as car make, model, fuel type, engine specifications, and more.
 
-*The workflow is implemented in a Jupyter Notebook: `car_price.ipynb`
-*The dataset used is: `CarPrice_Assignment.csv`
+* The workflow is implemented in a Jupyter Notebook: `car_price.ipynb`
+* The dataset used is: `CarPrice_Assignment.csv`
 
 ## 📂 Project Structure
 
@@ -104,5 +104,6 @@ Typical requirements:
 * Predicted vs Actual prices plot
 
 ---
+
 
 
